@@ -136,6 +136,8 @@ nav ul li a:hover::after{
 /* resume section */
 #resume{
     text-align: center;
+    padding-top: 3%;
+    
 }
 .button{
     text-decoration: none;
@@ -287,4 +289,36 @@ p.social-icons{
     border-radius: 4px;
     color: #fff;
     font-size: 18px;
+    /* margin-right: 20px; */
+    
+    
+}
+/* .getintouch a{
+    padding-right: 3%;
+} */
+.techstack .techstackicons svg {
+    border-radius: 5px;
+    color: #FF0000;
+    /* border: 1.7px #FF0000; */
+    font-size: 4.5em;
+    margin: 15px;
+    padding: 27px;
+    
+
+}
+.techstack {
+    display: flex;
+    /* text-align: center; */
+    justify-content: space-between;
+    padding-left: 5%;
+    
+    
+}
+#about{
+    text-align: center;
+    padding-left: 5%;
+}
+#about h1 {
+    color: #FF0000;
+    font-size: 40px;
 }
